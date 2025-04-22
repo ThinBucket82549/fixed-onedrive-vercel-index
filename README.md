@@ -1,4 +1,5 @@
-##*Fixed* Onedrive Vercel Index (Fork of Spencer Woo's Onedrive Index)
+## *Fixed* Onedrive Vercel Index (Fork of Spencer Woo's Onedrive Index)
+
 Showcase, share, preview, and download files inside *your* OneDrive with onedrive-vercel-index -
 
 - Completely free to host 💸
