@@ -12,6 +12,8 @@ Showcase, share, preview, and download files inside *your* OneDrive with onedriv
 
 🚀 Quick start is just like normal: [Getting started](https://ovi.swo.moe/docs/getting-started).
 
+Do remember to fork this repo, instead of the main one, the main one throws an application error :)
+
 ## Demo
 
 Live demo at [Bucket's OneDrive](https://drive.realabucket.xyz).
